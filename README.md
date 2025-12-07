@@ -28,6 +28,18 @@ All source code, images, and project files are included in this repository.
 - LDR + 10k resistor (voltage divider)
 - Breadboard and jumper wires
 
+---
+
+### How It Works
+
+- The LDR and 10k resistor create a voltage divider.
+- The ADC reads this voltage to determine light intensity.
+- A simple threshold decides whether it is “light” or “dark.”
+- Depending on the light level, the OLED displays either:
+ - happy fox
+ - scared fox
+-Images are converted to monochrome C-arrays using online tools.
+
 
 
 
