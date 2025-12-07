@@ -23,10 +23,10 @@ All source code, images, and project files are included in this repository.
 
 ### Hardware Requirements
 
--STM32F100C8 (or STM32F103 compatible)
--SSD1306 OLED display (I2C)
--LDR + 10k resistor (voltage divider)
--Breadboard and jumper wires
+- STM32F100C8 (or STM32F103 compatible)
+- SSD1306 OLED display (I2C)
+- LDR + 10k resistor (voltage divider)
+- Breadboard and jumper wires
 
 
 
