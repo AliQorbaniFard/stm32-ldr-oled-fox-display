@@ -7,3 +7,4 @@ The OLED displays different fox images depending on ambient light intensity:**
 - Dark environment → Scared fox
 
 All source code, images, and project files are included in this repository.
+---
