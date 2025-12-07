@@ -61,3 +61,9 @@ A full demonstration video is available on the [Sly Fox Electronics YouTube chan
 - This project is under the MIT License.
 - You may modify and reuse the code freely.
 
+---
+
+### Contributions
+
+- Feel free to open issues or submit pull requests.
+- If you find the project useful, consider starring the repo.
