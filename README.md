@@ -36,8 +36,8 @@ All source code, images, and project files are included in this repository.
 - The ADC reads this voltage to determine light intensity.
 - A simple threshold decides whether it is “light” or “dark.”
 - Depending on the light level, the OLED displays either:
- - happy fox
- - scared fox
+  - happy fox
+  - scared fox
 -Images are converted to monochrome C-arrays using online tools.
 
 
