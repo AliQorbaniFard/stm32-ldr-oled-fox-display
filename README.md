@@ -40,7 +40,13 @@ All source code, images, and project files are included in this repository.
   - scared fox
 - Images are converted to monochrome C-arrays using online tools.
 
+---
 
+### Getting Started
+
+1- Open the project in STM32CubeIDE (or any STM32 toolchain).
+2- Build and flash the firmware to your board.
+3-Change the light around the LDR and observe the OLED reaction.
 
 
 
