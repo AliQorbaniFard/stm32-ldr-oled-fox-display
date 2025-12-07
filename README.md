@@ -48,5 +48,10 @@ All source code, images, and project files are included in this repository.
 2. Build and flash the firmware to your board.
 3. Change the light around the LDR and observe the OLED reaction.
 
+---
 
+### Demo
+
+A full demonstration video is available on the Sly Fox Electronics YouTube channel.
+(UC24fcTqgswaZkPQFimSFBrg)
 
