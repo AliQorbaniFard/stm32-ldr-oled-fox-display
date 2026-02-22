@@ -55,7 +55,7 @@ All source code, images, and project files are included in this repository.
 
 ### Demo
 
-A full demonstration video is available on the [Sly Fox Electronics YouTube channel.](UC24fcTqgswaZkPQFimSFBrg)
+A full demonstration video is available on the [Sly Fox Electronics YouTube channel.](https://youtube.com/@slyfoxelectronics?si=9c9IthAzAudSdsuo)
 
 ---
 
